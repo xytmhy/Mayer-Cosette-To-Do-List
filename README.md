@@ -13,9 +13,9 @@ Movies & TV Shows (Cinema Movies Not Included)
 |Sex Education (Season 3) | TV show |   | [douban](https://movie.douban.com/subject/34966169/)
 |West World (Season 3) | TV show |   | [douban](https://movie.douban.com/subject/30206389/)
 
-Citise 
+Cities 
 =====
-|Name | Area | Finished Date | References
+|City | Area | Date | References
 |- | :-: | :-: | -
 |Rome | Mediterranean |  | 
 |Paris | EU |  | 
@@ -24,11 +24,23 @@ Citise
 |Greece | Mediterranean |  | 
 |Egypt | Mediterranean |  | 
 |Jerusalem | Mediterranean |  | 
+|Granada | Mediterranean |  | 
+|Casablanca | Mediterranean |  | 
+|Shenzhen | Mainland |  | Maybe in Xiaoma's graduation.
+|Guangzhou | Mainland |  | Maybe in Xiaoma's graduation.
+|Tianjin | Mainland |  | 
+|Xianmen | Mainland |  | Will Bro Spring welcome us?
 
-Movies & TV Shows
+The other stuffs 
 =====
-|Name | Type | Finished Date
-|- | :-: | -:
-|Harry Potter | Gryffindor| 90
-|Hermione Granger | Gryffindor | 100
-|Draco Malfoy | Slytherin | 90
+|Name | Type | Date | References
+|- | :-: | :-: | -
+|Pedicure | Sports? | 2019/10/08 | Very intersting, please do it again
+|Hiking | Sports | |
+|Bike Riding | Sports | |
+|Mount. Climbing | Sports | |
+|Taking Photo TGH | Fun | |
+|Hot Spring | Fun | |
+|Visiting Park in Zibo | Fun | |
+
+
