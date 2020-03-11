@@ -4,7 +4,7 @@ Here is what we want to do together (movies/cities and the other things) for May
 Movies & TV Shows (Cinema Movies Not Included)
 =====
 |Name | Type | Finished Date | Links
-|- | :-: | -:
+|- | :-: | -: | -:
 |The Mandalorian (Season 1) | TV show | 2020/01/07 | [douban](https://movie.douban.com/subject/30344167/?from=subject-page)
 |L'amica geniale (Season 1) | TV show | None | [douban](https://movie.douban.com/subject/28427782/)
 |L'amica geniale (Season 2) | TV show | None | [douban](https://movie.douban.com/subject/30395843/)
