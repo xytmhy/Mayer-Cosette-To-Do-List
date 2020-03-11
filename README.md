@@ -6,20 +6,24 @@ Movies & TV Shows (Cinema Movies Not Included)
 |Name | Type | Finished Date | Links
 |- | :-: | -: | -:
 |The Mandalorian (Season 1) | TV show | 2020/01/07 | [douban](https://movie.douban.com/subject/30344167/?from=subject-page)
-|L'amica geniale (Season 1) | TV show | None | [douban](https://movie.douban.com/subject/28427782/)
-|L'amica geniale (Season 2) | TV show | None | [douban](https://movie.douban.com/subject/30395843/)
+|L'amica geniale (Season 1) | TV show |   | [douban](https://movie.douban.com/subject/28427782/)
+|L'amica geniale (Season 2) | TV show |   | [douban](https://movie.douban.com/subject/30395843/)
 |Sex Education (Season 1) | TV show | 2020/02/17 | [douban](https://movie.douban.com/subject/27594217/)
-|Sex Education (Season 2) | TV show | None | [douban](https://movie.douban.com/subject/30438115/)
-|Sex Education (Season 3) | TV show | None | [douban](https://movie.douban.com/subject/34966169/)
-|West World (Season 3) | TV show | None | [douban](https://movie.douban.com/subject/30206389/)
+|Sex Education (Season 2) | TV show |   | [douban](https://movie.douban.com/subject/30438115/)
+|Sex Education (Season 3) | TV show |   | [douban](https://movie.douban.com/subject/34966169/)
+|West World (Season 3) | TV show |   | [douban](https://movie.douban.com/subject/30206389/)
 
-Citise & TV Shows
+Citise 
 =====
-|Name | Type | Finished Date
-|- | :-: | -:
-|Harry Potter | Gryffindor| 90
-|Hermione Granger | Gryffindor | 100
-|Draco Malfoy | Slytherin | 90
+|Name | Area | Finished Date | References
+|- | :-: | -: | -:
+|Rome | Mediterranean |  | 
+|Paris | EU |  | 
+|London | EU |  | 
+|İstanbul/Constantinople | Mediterranean |  | 
+|Greece | Mediterranean |  | 
+|Egypt | Mediterranean |  | 
+|Jerusalem | Mediterranean |  | 
 
 Movies & TV Shows
 =====
