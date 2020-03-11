@@ -1,4 +1,4 @@
-# Mayer-Cosette-To-Do-List
+# Mayer&Cosette's ToDoList
 Here is what we want to do together (movies/cities and the other things) for Mayer and his beloved Lady.
 
 Movies & TV Shows (Cinema Movies Not Included)
