@@ -12,6 +12,8 @@ Movies & TV Shows (Cinema Movies Not Included)
 |Sex Education (Season 2) | TV show |   | [douban](https://movie.douban.com/subject/30438115/)
 |Sex Education (Season 3) | TV show |   | [douban](https://movie.douban.com/subject/34966169/)
 |West World (Season 3) | TV show |   | [douban](https://movie.douban.com/subject/30206389/)
+|Meitantei Conan / Case Closed | TV show | 2020/06/22  | [douban](https://movie.douban.com/subject/1463371/)
+
 
 Cities 
 =====
@@ -41,6 +43,10 @@ The other stuffs
 |Mount. Climbing | Sports | |
 |Taking Photo TGH | Fun | |
 |Hot Spring | Fun | |
-|Visiting Park in Zibo | Fun | |
+|Visiting Parks in Zibo | Fun | Winter, 2020 | Please say thanks to Duoduo
+|Over Cooked | Video Game | Summer, 2020 | 
+|Cities Skylines | Video Game | Spring, 2020 | 
+|Civilization VI | Video Game | Summer, 2020 | 
+|Lego | Fun | 2020/06/23 | 
 
 
