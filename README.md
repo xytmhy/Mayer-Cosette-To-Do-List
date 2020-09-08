@@ -29,7 +29,7 @@ Cities
 |- | :-: | :-: | -
 |Shenzhen | Mainland | 2020/08/10 | Maybe in Xiaoma's graduation.(Keke visited Guangzhou First)
 |Peking | Mainland | 2020/09/05 | It's a gift that we could come back to Peking together because of COVID-19
-|- | :-: | :-: | -
+| |  |  | 
 |Rome | Mediterranean |  | 
 |Paris | EU |  | 
 |London | EU |  | 
